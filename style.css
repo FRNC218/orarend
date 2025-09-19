@@ -33,3 +33,12 @@ caption{
     font-weight: bold;
     font-size: 4em;
 }
+.termek{
+    color: red;
+}
+td:hover{
+    background-color: rgb(146, 243, 243);
+}
+.ora:hover{
+    background-color: rgb(54, 155, 238);
+}
